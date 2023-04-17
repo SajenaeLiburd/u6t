@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h3{
+  color:blue;
+}
+
+/* Place your work for Part 2 in the space below*/
+p{
+  color:green;
+}
+
+body{
+  background-color: yellow;
+}
+
+h1{
+  border: 2px solid green;
+}
+
+.love{
+  background-color: cyan;
+}
+
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
